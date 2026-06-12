@@ -2,7 +2,7 @@
 
 I build AI-powered products and security platforms — from zero to production.
 
-Co-founder of [Auria Technologies](https://auria.pro) · MSc Cybersecurity @ UCM Madrid
+Co-founder of [Auria Technologies](https://auria-tech.com/) · MSc Cybersecurity @ UCM Madrid
 
 ---
 
