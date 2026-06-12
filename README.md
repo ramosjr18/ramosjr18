@@ -1,3 +1,28 @@
-Buenas!👋 
+### Hi, I'm Daniel 
 
-I am a passionate individual with a deep-seated curiosity for learning and a drive to constantly improve. I thrive on challenges and am committed to continuous self-growth. My strong analytical skills and problem-solving abilities have been honed through diverse experiences, making me a versatile asset in any setting. I believe in the power of teamwork and effective communication, valuing relationships as key to success. I am dedicated to achieving results and fostering innovation in everything I do.
+Software engineer focused on **AI systems** and **cybersecurity** — I build things that are useful and secure, from day one.
+
+Co-founder of [Auria Technologies](https://auria.pro). Products shipped:
+
+| Project | Description |
+|---|---|
+| **[Fractia](https://github.com/ramosjr18/fractia)** | Open-source SAST · DAST · Linux hardening suite with AI remediation (GPT-4o + Claude) |
+| **EndrIA** | Multi-tenant AI recruiting platform — semantic CV matching, Stripe billing, Chrome extension |
+| **NachIA** | LangGraph multi-agent pipeline for architecture firms (concept to presentation in minutes) |
+| **omnix** | Enterprise omnichannel platform — 11 microservices (WhatsApp, Teams, email, WebRTC) |
+
+Currently finishing my **MSc in Offensive & Defensive Cybersecurity** at Universidad Complutense de Madrid.
+
+---
+
+**Stack I work with daily**
+
+`Python` `FastAPI` `Node.js` `NestJS` `LangGraph` `LangChain` `OpenAI` `Anthropic Claude` `Docker` `PostgreSQL` `Redis` `Next.js`
+
+**Security tools**
+
+`OWASP ZAP` `Nuclei` `Burp Suite` `Fortinet` `SAST/DAST` `Linux Hardening` `DevSecOps`
+
+---
+
+[danielramos.pro](https://danielramos.pro) · [LinkedIn](https://linkedin.com/in/daniel-ramos-camargo)
