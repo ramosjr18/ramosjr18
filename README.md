@@ -28,4 +28,4 @@ Co-founder of [Auria Technologies](https://auria.pro) · MSc Cybersecurity @ UCM
 
 ---
 
-[danielramos.pro](https://danielramos.pro) · [LinkedIn](https://linkedin.com/in/daniel-ramos-camargo) · [Auria Technologies](https://auria.pro)
+[danielramos.pro](https://danielramos.pro) · [LinkedIn](https://linkedin.com/in/daniel-ramos-camargo) · [Auria Technologies](https://auria-tech.com/)
