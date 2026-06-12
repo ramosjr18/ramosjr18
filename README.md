@@ -14,7 +14,7 @@ Co-founder of [Auria Technologies](https://auria.pro) · MSc Cybersecurity @ UCM
 | **EndrIA** | Multi-tenant AI recruiting platform — semantic CV matching, Stripe billing, Chrome extension |
 | **NachIA** | LangGraph multi-agent pipeline for architecture firms — from client brief to polished presentation |
 | **omnix** | Enterprise omnichannel platform — 11 microservices (WhatsApp, Teams, email, WebRTC) |
-| **[DemencIA](https://auria.pro)** | macOS desktop app (Apple-signed, v1.1.2 beta) — AI conversational assistant for cognitive support |
+| **[DemencIA](https://auria-tech.com/demencia)** | macOS desktop app (Apple-signed, v1.1.2 beta) — AI conversational assistant for cognitive support |
 
 ---
 
