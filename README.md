@@ -1,17 +1,20 @@
 ### Hi, I'm Daniel 
 
-Software engineer focused on **AI systems** and **cybersecurity** — I build things that are useful and secure, from day one.
+I build AI-powered products and security platforms — from zero to production.
 
-Co-founder of [Auria Technologies](https://auria.pro). Products shipped:
+Co-founder of [Auria Technologies](https://auria.pro) · MSc Cybersecurity @ UCM Madrid
 
-| Project | Description |
+---
+
+**What I've shipped**
+
+| Project | What it does |
 |---|---|
-| **[Fractia](https://github.com/ramosjr18/fractia)** | Open-source SAST · DAST · Linux hardening suite with AI remediation (GPT-4o + Claude) |
+| **[Fractia](https://github.com/ramosjr18/fractia)** | Open-source SAST · DAST · Linux hardening suite with AI-powered remediation (GPT-4o + Claude) |
 | **EndrIA** | Multi-tenant AI recruiting platform — semantic CV matching, Stripe billing, Chrome extension |
-| **NachIA** | LangGraph multi-agent pipeline for architecture firms (concept to presentation in minutes) |
+| **NachIA** | LangGraph multi-agent pipeline for architecture firms — from client brief to polished presentation |
 | **omnix** | Enterprise omnichannel platform — 11 microservices (WhatsApp, Teams, email, WebRTC) |
-
-Currently finishing my **MSc in Offensive & Defensive Cybersecurity** at Universidad Complutense de Madrid.
+| **[DemencIA](https://auria.pro)** | macOS desktop app (Apple-signed, v1.1.2 beta) — AI conversational assistant for cognitive support |
 
 ---
 
@@ -25,4 +28,4 @@ Currently finishing my **MSc in Offensive & Defensive Cybersecurity** at Univers
 
 ---
 
-[danielramos.pro](https://danielramos.pro) · [LinkedIn](https://linkedin.com/in/daniel-ramos-camargo)
+[danielramos.pro](https://danielramos.pro) · [LinkedIn](https://linkedin.com/in/daniel-ramos-camargo) · [Auria Technologies](https://auria.pro)
